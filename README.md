@@ -3,6 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/piwik/piwik/v/stable)](https://matomo.org/download/)
 [![Latest Unstable Version](https://poser.pugx.org/piwik/piwik/v/unstable)](https://packagist.org/packages/piwik/piwik)
 [![License](https://poser.pugx.org/piwik/piwik/license)](https://matomo.org/free-software/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fmatomo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fmatomo?ref=badge_shield)
 
 ## Code Status
 
@@ -30,6 +31,9 @@ Or in short:
 
 Matomo is released under the GPL v3 (or later) license, see [misc/gpl-3.0.txt](misc/gpl-3.0.txt)
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fmatomo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fmatomo?ref=badge_large)
 
 ## Requirements
 
